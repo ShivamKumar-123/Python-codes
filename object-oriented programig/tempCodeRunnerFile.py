@@ -1,0 +1,1 @@
+print(Car.total_car)
